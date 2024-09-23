@@ -5,3 +5,8 @@ This project presents a simple yet detailed analysis of job data in the domains 
 ## Overview
 
 In this analysis, we will explore various job market trends, demands, and metrics, providing insights that can help inform career decisions and strategic planning in the data field.
+
+###Explored :-
+              Skills asking for top 3 jobs
+              Skills trend for a year
+              Salaries for top 3 jobs
